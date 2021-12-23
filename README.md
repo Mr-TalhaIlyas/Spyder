@@ -13,7 +13,10 @@ Custom pallets for [spyder](https://www.spyder-ide.org/)
 
 ![alt text](https://github.com/Mr-TalhaIlyas/Spyder/blob/main/screens/img3.png)
 
-### Dracula 
+### [Dracula](https://github.com/dracula)
+
+![alt text](https://github.com/Mr-TalhaIlyas/Spyder/blob/main/screens/img4.png)
 
 #### Color Pallet
 
+![alt text](https://github.com/Mr-TalhaIlyas/Spyder/blob/main/screens/img5.png)
